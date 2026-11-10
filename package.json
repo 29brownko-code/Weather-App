@@ -1,0 +1,12 @@
+{
+  "name": "weather-app-api",
+  "version": "1.0.0",
+  "description": "Simple weather app that fetches forecast data from the National Weather Service API.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
